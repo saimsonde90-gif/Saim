@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>B1 ELITE Gaming</title>
+
+<style>
+body{
+background-color:blue;
+color:white;
+text-align:center;
+font-family:Arial;
+}
+
+h1{
+color:yellow;
+}
+
+a{
+color:red;
+font-size:20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>🎮 B1 ELITE GAMING</h1>
+
+<p>Welcome to my gaming YouTube channel</p>
+
+<a href="https://youtube.com/@b1elite-c8i">Subscribe My Channel</a>
+
+</body>
+</html>
